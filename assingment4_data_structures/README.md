@@ -3,7 +3,6 @@
 This assignment focuses on the implementation of **hash tables** and different collision resolution techniques.  
 It demonstrates understanding of hashing functions, performance monitoring, and optimization of data structures.
 
-inside the **materials** folder
 ## Files 
 **HashTable.java** – Base hash table implementation.  
 **LPHashTable.java** – Hash table using linear probing for collision resolution.  
