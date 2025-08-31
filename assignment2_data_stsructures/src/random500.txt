@@ -1,0 +1,500 @@
+state lottery	State lotteries are lotteries.	1.0
+borate salt	Borate salts are water soluble and are relatively low in toxicity.	0.7481744289398193
+chlorophyll	Chlorophyll absorbs certain light rays.	1.0
+petroleum wax	Petroleum waxes are derived from crude oil.	0.7730444669723511
+skin colour	Skin colour is color	1.0
+local expert	Local experts to assess situations.	1.0
+pappenheimer body	Pappenheimer bodies are iron granules in mitochondria.	0.8699147701263428
+liberalization	Liberalization is easing.	1.0
+snorting	Snortings are exhalation.	1.0
+government institution	Government institutions include transportation departments.	1.0
+metallic bond	Metallic bonds occur between metal atoms.	0.8280431032180786
+smaller animal	Smaller animals live in the canopy and trees, while larger animals live on the forest floor.	0.7694992423057556
+tare	Tares are weight.	1.0
+blood group	Blood group antigens react with proteins called antibodies.	0.8199220895767212
+submucous myoma	Submucous myomas are fibroid tumors on the inside of the uterus.	0.8400822877883911
+enzyme synthesis	Enzyme synthesis is switched on production by repressing enzyme synthesis.	0.7151219844818115
+crepuscular animal	Crepuscular animals are active at dawn and dusk, the coolest times of day.	0.8258483409881592
+optician	Opticians have (part) legs.	1.0
+red herring	Red herrings are magazines.	1.0
+inhalational anesthetic	Inhalational anesthetics are gases or volatile liquids that produce general anesthesia when inhaled.	0.8268478512763977
+high price	High prices are located in theatres.	1.0
+secondary education	Secondary education is education.	1.0
+red meat	Red meat is meat.	1.0
+male sterility	Male sterility occurs in plants where pollen or anthers fail to function properly.	0.7902842164039612
+dogwood	Dogwood anthracnose is the disease that can cause tree decline and mortality.	0.7533601522445679
+maker	Makers have (part) body substances.	1.0
+bismuth trioxide	Bismuth trioxide is insoluble in water.	0.8148205280303955
+black currant	Black currants produce fruit.	1.0
+kindred spirit	Kindred spirit is television shows.	1.0
+medium frequency	A medium frequency is a radio frequency	1.0
+hard lead	Hard lead is lead	1.0
+gyroplane	A gyroplane is an aircraft	1.0
+woody debris	Woody debris provides habitats.	1.0
+thrill	Thrill isa excitement.	1.0
+sagitta	Sagittas are constellations.	1.0
+spiral nebula	A spiral nebula is a collection	1.0
+saturated bond	Saturated bonds are when each of the carbons has four single bonds as in the top figure.	0.7387591004371643
+backpacker	A backpacker is a tramper	1.0
+insufficiency	Insufficiency is quality	1.0
+inflammatory arthritis	Inflammatory arthritis refers to diseases of the joints where the immune system causes inflammation.	0.8067107796669006
+swedish massage	Swedish massages are massages.	1.0
+predatory carnivore	Predatory carnivores have jaws.	1.0
+fossil evidence	Fossil evidence suggests evolution.	1.0
+egyptian mongoose	Egyptian mongeese eat snakes.	1.0
+dingle	A dingle is a hollow	1.0
+play list	A play list is a list	1.0
+serum ferritin	Serum ferritin is a sensitive test for both iron deficiency and excess.	0.7050449252128601
+shingle	Shingles occurs in people who have had chickenpox and is a reactivation of the dormant virus.	0.7002076506614685
+degenerate matter	Degenerate matter has unusual properties.	1.0
+intravenous drug	Intravenous drugs relax the muscles of the stomach and small intestine.	0.7653006315231323
+ideal gas	Ideal gases have properties.	1.0
+decree	A decree is an act	1.0
+native ladybug	Native ladybugs eat aphids.	1.0
+sterile pyuria	Sterile pyuria is caused by cancer cells that flake off into the urine and resemble pus.	0.8154042363166809
+young bull	Young bulls reach sexual maturity.	1.0
+tail fin	Tail fins are decoration.	1.0
+organic reaction	Organic reactions are complex, involving reactants, catalysts, and solvents.	0.7740855813026428
+vesicoureteral reflux	Vesicoureteral reflux is reflux.	1.0
+truism	A truism is truth	1.0
+poetic justice	Poetic justice is a result	1.0
+conserved residue	Conserved residues are functionally distinct within transketolases from different species.	0.7605846524238586
+military academy	Military academies are academies.	1.0
+etiquette	Etiquette is code of conduct.	1.0
+leather strip	A leather strip is an implement	1.0
+illustration	An illustration is art	1.0
+diabetic nephropathy	Diabetic nephropathy is a progressive disorder.	0.7495982646942139
+sea spray	Sea spray is spray	1.0
+psalm	A psalm is a sacred writing	1.0
+lamellar bone	Lamellar bones are bone tissue.	1.0
+inflammatory molecule	Inflammatory molecules promote cell cancer growth.	0.7773838639259338
+student residence	A student residence is a building	1.0
+normal neuron	Normal neurons produce a protein that is very similar in structure to the prion.	0.7340348958969116
+freelancer	A freelancer is a worker	1.0
+snowdrop flower	Snowdrop flowers consist of buds.	1.0
+cell culture	Cell cultures attempt to mirror the environment that in-vivo cells are in.	0.7001038789749146
+Echidna	Echidna eat ants and termites.	0.7075531482696533
+dark shadow	Dark shadows reduce light.	1.0
+short sleeve	Short sleeve is sleeve.	1.0
+resistant bacteria	Resistant bacteria multiply when non-resistant bacteria die.	0.7037197351455688
+sympathetic neuron	Sympathetic neurons are in the thoracolumbar spinal cord .	0.791977047920227
+whole family	Whole families eat dinner.	1.0
+slacks	Slackses is located in suitcases.	1.0
+laugher	Laugher is people.	1.0
+many ecological factor	Many ecological factors affect distribution.	1.0
+mutual inductance	Mutual inductance is a coefficient	1.0
+scent gland	Scent glands help species to recognize one another.	0.7828058004379272
+deep sea animal	Deep sea animals have structures.	1.0
+circuit board	A circuit board is a circuit	1.0
+umbilical hernia	Umbilical hernia is hernia.	1.0
+philanthropy	Philanthropies are financial aid.	1.0
+actinitic keratosis	Actinitic keratosis is a precancerous skin condition.	0.818842887878418
+caiman lizard	Caiman lizards have a blunt head and molariform teeth for crushing their molluscan prey.	0.8094984889030457
+various habitat	Various habitats have woody vegetation.	1.0
+air transportation	Air transportation is transportation.	1.0
+dark lord	Dark lords have senses.	1.0
+roamer	A roamer is a traveler	1.0
+xylophone	Xylophones are used for play.	1.0
+credit rating	A credit rating is an estimate	1.0
+speakeasy	A speakeasy is a bar	1.0
+online article	Online articles are articles.	1.0
+mouth cavity	Mouth cavity contains teeth, tongue and salivary glands.	0.7975578904151917
+horde	A horde is gathering	1.0
+multicellular creature	Multicellular creatures have specialized structures for transporting nutrients and wastes.	0.7793141603469849
+orpiment	An orpiment is a mineral	1.0
+epoietin alpha	Epoietin alpha is a medication that replaces erythropoietin.	0.7527669668197632
+bullpen	A bullpen is an area	1.0
+safe food	Safe food includes orange.	1.0
+buffalo grass	Buffalo grass is grass	1.0
+revel	Revel is festivity	1.0
+bunny rabbit	A bunny rabbit is a rabbit	1.0
+emcee	An emcee is an entertainer	1.0
+oriental rug	Oriental rugs are rugs.	1.0
+classroom activity	Classroom activities require students.	1.0
+fecal leucocyte	Fecal leucocytes are present in infectious with invasive organisms.	0.8467414379119873
+flutist	Flutists are musicians.	1.0
+stepladder	A stepladder is a ladder	1.0
+airdrop	An airdrop is a delivery	1.0
+primordial follicle	Primordial follicles are immature primary oocytes surrounded by a single layer of granulosa cells.	0.8709014654159546
+sponge	Sponges are plant-like creatures growing in colonies on the ocean floor.	0.8152636289596558
+reformist	A reformist is a person	1.0
+hedging	Hedgings are monetary transactions.	1.0
+anesthetic drop	Anesthetic drops can anesthetize the surface of the eye, eliminating painful sensations.	0.7325116991996765
+mechanical wave	Mechanical waves result from vibration.	1.0
+progress	Progress is motion.	1.0
+breathe improvement technique	Breathe improvement techniques outline in publications.	1.0
+rock bottom	Rock bottoms are bottoms.	1.0
+defenestration	Defenestration is an expulsion	1.0
+oil exploration	Oil exploration involves destruction.	1.0
+agua	Aguas have (part) rib cages.	1.0
+simple pistil	A simple pistil is a pistil	1.0
+tear gas	Tear gases are gases.	1.0
+land degradation	Land degradations reduce chances.	1.0
+red pulp	Red pulp corresponds to the sinuses which are usually filled with red blood cells.	0.8045986294746399
+organic waste	Organic wastes are converted by fungi and bacteria into something called detritus.	0.7154788374900818
+rani	A rani is a leader	1.0
+dielectric heating	Dielectric heating is an electrical phenomenon	1.0
+fear	Fear is the state of mind denoted by a painful emotion.	0.7163024544715881
+oyster larva	Oyster larvae grow to size.	1.0
+investigator	Investigators are experts.	1.0
+funeral home	A funeral home is a building	1.0
+fascial contracture	Fascial contracture occurs when muscles and their connective tissues tighten abnormally.	0.8314905762672424
+common birth defect	Common birth defects result from factors.	1.0
+Trout	Trout are a fresh water species of fish that are essential to many food chains including humans.	0.7238210439682007
+gestational hypertension	Gestational hypertension is high blood pressure that develops during a pregnancy.	0.8313514590263367
+microseism	Microseism is an earthquake	1.0
+tax credit	Tax credit is decrease.	1.0
+biological function	Biological functions relate to metabolism.	1.0
+white book	A white book is a report	1.0
+trail	Trails follow routes.	1.0
+halogen lamp	Halogen lamps generate heat.	1.0
+intransitive verb	Intransitive verbs are verbs.	1.0
+initial infection	Initial infection produces symptoms.	1.0
+air purifier	Air purifiers are devices.	1.0
+underpass	An underpass is a tunnel	1.0
+threat face	Threat faces show teeth.	1.0
+gas utility	Gas utilities use consumption.	1.0
+hardware	Hardware isa element.	1.0
+milanese mesh	Milanese mesh is used to make necklaces and bracelets.	0.7025920748710632
+tattooing	Tattooings are making.	1.0
+customer service department	Customer service departments make assessments.	1.0
+american eel	American eels absorb oxygen.	1.0
+cannula	Cannulas are tubes.	1.0
+appalachian region	Appalachian regions offer opportunity.	1.0
+compartmentalization	Compartmentalization is a grouping	1.0
+necropsy	A necropsy is an examination	1.0
+commissar	A commissar is an official	1.0
+road kill	Road kill is located in freeways.	1.0
+giant petrel	A giant petrel is a petrel	1.0
+bowhead	Bowheads have (part) rib cages.	1.0
+lamination	Laminations are structures.	1.0
+foreign body	Foreign bodies cause malfunctions in electrical devices.	0.7362359166145325
+military order	Military order is ordering.	1.0
+sodium nitrite	Sodium nitrite is a common nitrite.	0.7374027967453003
+young animal	Young animals have teeth.	1.0
+shadowing	Shadowing are pursuits.	1.0
+doctor	Doctors have (part) cytoplasm.	1.0
+many shorebird	Many shorebirds have migratory paths.	1.0
+road atlas	Road atlases are atlases.	1.0
+doldrum	Doldrums are calm winds that are found at the equator.	0.71269690990448
+dog collar	A dog collar is a collar	1.0
+Entomophobia	Entomophobia is an irrational fear of insects.	0.7377789616584778
+diesel oil	Diesel oil is fuel	1.0
+nilgai	Nilgais have (part) plasma membranes.	1.0
+rapidity	Rapidity is a pace	1.0
+stun flower	Stun flowers attract birds.	1.0
+pecan pie	Pecan pie is pie	1.0
+strong arm	Strong arms facilitate movement.	1.0
+alloy steel	Alloy steels are carbori steels with other additives, such as nickel, chromium, vanadium, etc.	0.7642304301261902
+choreography	Choreography is notation.	1.0
+fractional sr	Fractional sr ca release is regulated by trigger ca and sr ca content in cardiac myocytes.	0.7030317783355713
+small stone monument	Small stone monuments mark places.	1.0
+woodland vole	Woodland voles consume roots.	1.0
+elastic band	An elastic band is a band	1.0
+old mom	Old moms work jobs.	1.0
+male dugong	Male dugongs defend territory.	1.0
+american eagle carrier	American eagle carriers provide services.	1.0
+prelim	A prelim is a contest	1.0
+peptide hormone	Peptide hormones are usually very short chains of amino acids.	0.846096932888031
+testamentary trust	Testamentary trust is trust.	1.0
+amphibia	An amphibia is a class	1.0
+confabulation	Confabulation is memory	1.0
+saltwater	Saltwaters contain organisms.	1.0
+cold hand	Cold hands touch bottles.	1.0
+taenia specie	Taenia species are the most common cestode parasites of humans.	0.7787338495254517
+chimp	Chimps have (part) chests.	1.0
+hadrosaur	A hadrosaur is a dinosaur	1.0
+finger paint	Finger paint is paint	1.0
+crystal salt	Crystal salt has properties.	1.0
+montane vole	Montane voles are nocturnal during the summer, but primarily diurnal during winter.	0.7306892275810242
+acute inflammatory disease	Acute inflammatory diseases are characterized by symptoms.	1.0
+paddler	Paddlers are capable of row boats.	1.0
+aqueous fluid	Aqueous fluids are the agents of geologic change.	0.7424023151397705
+centurion	Centurions are warriors.	1.0
+doubletree	A doubletree is a crossbar	1.0
+weapon	Weapons are used for punishment.	1.0
+cocoa pod	Cocoa pods yield the seeds from which chocolate is made and also produce a sweet liqueur.	0.7248765826225281
+chemical identity	Chemical identity is expressed in terms of the molecular structure.	0.7193863987922668
+medlar	Medlars are fruit trees.	1.0
+world view	A world view is a view	1.0
+gesneriad	A gesneriad is a tracheophyte	1.0
+civil defense	Civil defense is protection	1.0
+weight loss doctor	Weight loss doctors review information.	1.0
+reportage	A reportage is news	1.0
+aerogram	An aerogram is a letter	1.0
+front projector	A front projector is a projector	1.0
+solid door	Solid doors provide security.	1.0
+clover plant	Clover plants grow at levels.	1.0
+pastime	Pastime is diversion.	1.0
+pseudocardinal tooth	Pseudocardinal teeth are thin, compressed, and elevated.	0.8237273097038269
+devotee	A devotee is a follower	1.0
+most astronomer	Most astronomers visit observatories.	1.0
+bighorn	Bighorn isa ungulate.	1.0
+angioblastic cord	Angioblastic cords are present in the septum transversum .e.g.	0.7749964594841003
+emotional contagion	Emotional contagion is linked to facial mimicry in humans and primates.	0.7235966324806213
+arm strength	Arm strength is the ability to throw the ball.	0.701031506061554
+spring break	A spring break is a pause	1.0
+bufflehead	Buffleheads are ducks.	1.0
+crawling	A crawling is travel	1.0
+hamster	Hamsters carry babies.	1.0
+enactment	Enactments are legislation.	1.0
+twilight transition	Twilight transitions promote circadian entrainment to lengthening light-dark cycles.	0.7272826433181763
+Vorticella	Vorticella are one of the peritrich protozoa.	0.7807053327560425
+unoxidized compound	Unoxidized compounds are often dark colors such as brown, green, black, and grey.	0.7623215913772583
+native american community	Native american communities seek protection.	1.0
+common woodlouse	Common woodlouses prefer areas.	1.0
+last resort	A last resort is an expedient	1.0
+certain individual	Certain individuals may have allergic reaction.	1.0
+forensic medicine	Forensic medicine is medicine	1.0
+draft animal	A draft animal is an animal	1.0
+western gull	Western gulls feed over the open ocean or along rocky shores.	0.7539706230163574
+aquatic habitat	Aquatic habitats include rivers.	1.0
+fluid intelligence	Fluid intelligence refers to the flexible and rapid processing of information in the brain.	0.7765442132949829
+swallowtail	Swallowtail refers to the posterior extensions on the hind wings of some species.	0.7112086415290833
+adrenocortical carcinoma	Adrenocortical carcinoma is a rare tumor with a poor prognosis.	0.7818271517753601
+geostationary orbit	A geostationary orbit is a geosynchronous orbit	1.0
+plumbago	A plumbago is a herb	1.0
+automaker	An automaker is a manufacturer	1.0
+transliteration	Transliteration is transcription	1.0
+sight	Sight is a visual image	1.0
+psychrophilic bacteria	Psychrophilic bacteria work in the lowest temperature range.	0.7663192749023438
+tartaric acid	Tartaric acid is acid	1.0
+best fighter	Best fighters have territory.	1.0
+mydriasis	A mydriasis is a reflex	1.0
+charge transfer	Charge transfer occurs between iron and oxygen.	0.7956353425979614
+diarrhea	Diarrhea predominates in acute infection.	0.7267529368400574
+strip	A strip is a part	1.0
+organ	Organs are located in music stores.	1.0
+last week	Last weeks see death.	1.0
+tropical forest	Tropical forests have a thin layer of soil that is kept in place by dense forest.	0.7057099938392639
+armpit	An armpit is a structure	1.0
+new product	New products help weight.	1.0
+ocular hypertension	Ocular hypertension is higher than normal pressure of the eye.	0.76095050573349
+fibrinoid necrosis	Fibrinoid necrosis is usually the etiology of the weakness in the arterial wall.	0.7883168458938599
+commercial activity	Commercial activities include tourism.	1.0
+syndicate	Syndicates are organized crime.	1.0
+mental disease	A mental disease is a mental condition	1.0
+consumer loan	A consumer loan is a loan	1.0
+eruption	Eruptions occur in places.	1.0
+tenner	A tenner is a large integer	1.0
+weight cycling	Weight cycling is the repeated loss and regain of body weight.	0.762758195400238
+urate	Urates are the result of digestion and metabolism of proteins in the bird's system.	0.81917405128479
+urination	Urination isa excretion.	1.0
+story	Stories provide genetic evidence.	1.0
+airforce	Airforce is a service	1.0
+manual	Manuals have (part) sections.	1.0
+pylon	Pylons have (part) bases.	1.0
+surface ectoderm	Surface ectoderm gives rise to the lens and anterior surface of the cornea.	0.7137863636016846
+damp condition	Damp conditions encourage growth.	1.0
+mike	Mikes are stagehands.	1.0
+convergent extension	Convergent extension causes narrowing and lengthening of the neural plate.	0.710310161113739
+stagnation	Stagnation is inaction	1.0
+luminescent sensor	Luminescent sensors recognize fluorescent markings, labels, threads, lubricants and adhesives.	0.7003489136695862
+sundog	A sundog is a patch	1.0
+armored car	An armored car is a container	1.0
+loose coupling	Loose couplings are couplings.	1.0
+smooth cordgrass	Smooth cordgrasses provide superior protection.	1.0
+american mink	American minks reach maturity.	1.0
+pheromone	Pheromones are a naturally occurring chemical compound found in all insects, animals, and humans.	0.8548524975776672
+mongolian spot	Mongolian spots are harmless blue-gray patches that appear on the back, legs or shoulders.	0.7256453633308411
+pure iron	Pure iron is an element which is silvery-grey, soft and ferromagnetic.	0.80298912525177
+sluggishness	Sluggishness is paces.	1.0
+sandalwood oil	Sandalwood oil offers certain benefits.	1.0
+chessman	A chessman is a piece	1.0
+inhibited ejaculation	Inhibited ejaculation is the inability to have ejaculation.	0.7744022607803345
+administrative officer	Administrative officers are workers.	1.0
+short toe	Short toes is a recessive lethal mutation involving the kidneys, the Mullerian ducts and the limbs.	0.724276602268219
+small pot	Small pots fill with mixture.	1.0
+black bile	Black bile is humour	1.0
+materialization	A materialization is an action	1.0
+wakefulness	Wakefulness is a waking	1.0
+nose hair	Nose hairs keep dust and foreign particles out of the respiratory tract.	0.7813294529914856
+vascular biology	Vascular biology is the study of blood vessels and their role in a number of debilitating diseases.	0.7717898488044739
+athletic game	An athletic game is a game	1.0
+internationalization	An internationalization is a group action	1.0
+commercialisation	Commercialisation is development	1.0
+senior citizen	Senior citizens recall experience.	1.0
+deckhand	A deckhand is a seaman	1.0
+isoflurane	An isoflurane is a drug	1.0
+dark respiration	Dark respiration taking place in plants is independent of the presence of light.	0.7487838268280029
+surface mail	Surface mail is mail.	1.0
+guard	Guard isa guardian.	1.0
+estrogenic compound	Estrogenic compounds can increase riding and prolapses.	0.7310295701026917
+pipet	A pipet is an instrument	1.0
+sex linkage	Sex linkage applies to genes that are located on the sex chromosomes.	0.7461449503898621
+upper jaw	Upper jaws help food.	1.0
+phosphorus intake	Phosphorus intake prevents diseases.	1.0
+carbon number	Carbon number refers to the number of carbon atoms in a chemical molecule.	0.7869745492935181
+police department	A police department is a local department	1.0
+irrelevance	Irrelevance is a relation	1.0
+genitalia	A genitalia is a sex organ	1.0
+gingko	Gingko contains numerous antioxidant flavonoids which counteract free radical activity.	0.7663683295249939
+oxygen system	Oxygen systems deliver oxygen continuously during inspiration and exhalation.	0.7538336515426636
+candlestick	Candlesticks are located in tables.	1.0
+vital capacity	Vital capacity is directly proportional to the total number of alveoli in a person's lung.	0.7160308361053467
+cronyism	Cronyisms are discrimination.	1.0
+tugboat	Tugboats are boats.	1.0
+neutral runner	Neutral runners get performance.	1.0
+communications system	Communications systems are physical systems.	1.0
+beat	Beats are sound.	1.0
+gowning	Gownings are dressings.	1.0
+schistosome	Schistosomes are flukes.	1.0
+simulcast	A simulcast is a broadcast	1.0
+sequestration	Sequestration is the process of separating or removing gasses from the atmosphere.	0.7913442254066467
+hungry animal	Hungry animals eat meat.	1.0
+articulate brachiopod	Articulate brachiopods have two sets of muscles used to open and close their shells.	0.8258277773857117
+workbook	Workbooks are books.	1.0
+thermistor	Thermistors are electronic components.	1.0
+antiepileptic drug	Antiepileptic drugs work by reducing the abnormal firing of cortical neurons.	0.7883098125457764
+methanol toxicity	Methanol toxicity can cause headaches, other neurologic problems, nausea and sleepiness.	0.7078502178192139
+sexual conflict	Sexual conflict influences outcomes.	1.0
+trusting	Trustings is permittings.	1.0
+respiratory distress	Respiratory distress is seen after subchronic exposure by inhalation.	0.7108740210533142
+swallowing	Swallowings are used for drinking.	1.0
+male bottlenose dolphin	Male bottlenose dolphins reach maturity.	1.0
+particular experiment	Particular experiments involve analyses.	1.0
+nettle plant	Nettle plants have erect stalks.	1.0
+warren	Warrens are burrows.	1.0
+third world government	Third world government builds airports.	1.0
+pharmaceutical industry	Pharmaceutical industries are giants.	1.0
+nomenclature	Nomenclature isa word.	1.0
+cocoanut	Cocoanuts are the fruit of the palmtree.	0.72602778673172
+mixed economy	Mixed economy is economy	1.0
+platelet destruction	Platelet destruction occurs mainly in the spleen and to some extent in the liver and bone marrow.	0.7423983216285706
+Porphyria	Porphyria is a genetic disease that is caused by an enzyme deficiency in heme production.	0.8077773451805115
+molecular cloud	Molecular clouds are thousands to millions of solar masses of gas and dust, and can form many stars.	0.7469422817230225
+lost property	Lost properties are properties.	1.0
+excess porphyrin	Excess porphyrins cause photosensitivity, in which a person is overly sensitive to sunlight.	0.7351911664009094
+crustacean larva	Crustacean larvae possess eyes.	1.0
+epitaph	Epitaphs are memorials.	1.0
+thievery	Thievery is a felony	1.0
+actinomycosis	Actinomycosis is zoonosis.	1.0
+glazer	A glazer is an artisan	1.0
+trawl net	Trawl net is fishing net	1.0
+armyworm	Armyworms are the larval form of a moth that feed on lawns, wheat and improved pastures.	0.8011007308959961
+crystal ball	Crystal balls are balls.	1.0
+inhalational anthrax	Inhalational anthrax is anthrax.	1.0
+distinct genetic mechanism	Distinct genetic mechanisms contribute to evolution.	1.0
+call	Calls are requests.	1.0
+healthy chinchilla	Healthy chinchillas have dry eyes.	1.0
+cutaneous leishmaniasis	Cutaneous leishmaniasis is infection	1.0
+surrealism	A surrealism is art movement	1.0
+black cloud	Black clouds are books.	1.0
+float	Floats are hand tools.	1.0
+taffeta	Taffeta isa fabric.	1.0
+government revenue	Government revenue is an income	1.0
+demagoguery	Demagoguery is appeal	1.0
+bracelet	Bracelets are jewelry.	1.0
+sr	Srs are programming language.	1.0
+laboring	Laborings is births.	1.0
+defeat	A defeat is a conclusion	1.0
+male babirusa	Male babirusas to grow throughout life.	1.0
+sports drink	Sports drinks are mixture.	1.0
+granularity	Granularity is roughness	1.0
+german engineer	German engineers make notable improvement.	1.0
+death camp	A death camp is a concentration camp	1.0
+egotist	An egotist is a person	1.0
+intrinsic muscle	Intrinsic muscles act to change the shape of the tongue.	0.8199607133865356
+catacomb	A catacomb is a tunnel	1.0
+weather condition	Weather conditions can have adverse effects.	1.0
+prospect	A prospect is potential	1.0
+elderly woman	Elderly women consume beverages.	1.0
+cardiomyopathy	Cardiomyopathy is a heart disease	1.0
+gas plant	A gas plant is a herb	1.0
+spring clip	Spring clips are located in cabinets.	1.0
+persian melon	Persian melons have flesh.	1.0
+Bosnia	Bosnia isa thing.	1.0
+exterminator	An exterminator is a killer	1.0
+petrified wood	Petrified wood is a fossil .	0.7497726082801819
+task force	Task forces are units.	1.0
+sympathetic nerve	Sympathetic nerves carry electrical impulses from the brain to all parts of the body.	0.8455927968025208
+azide	An azide is a compound	1.0
+draught horse	A draught horse is a workhorse	1.0
+monomer	Monomers are compounds.	1.0
+lactation diet	Lactation diets provide protein intake.	1.0
+estimation	Estimations include assumptions.	1.0
+white yolk	White yolk is low in fat and is formed during the night.	0.7506884336471558
+dispersal	Dispersal can be a mechanism by which natural selection acts upon the population.	0.7349870204925537
+aquatic predator	Aquatic predators live in environments.	1.0
+pulse generator	Pulse generators are part of radar.	1.0
+embryo	Embryos have cell mass.	1.0
+female mud crab	Female mud crabs seek habitats.	1.0
+fat intake	Fat intake causes obesity.	1.0
+indefinite integral	An indefinite integral is an integral	1.0
+coupon	Coupons are coupons.	1.0
+symbolization	Symbolization is meaning.	1.0
+manumission	Manumission is the release from slavery or servitude.	0.726851224899292
+high water	High water is tide	1.0
+overexposure	Overexposure is exposure.	1.0
+deletion	Deletions are mutation.	1.0
+early fall migrant	Early fall migrants begin southward journeys.	1.0
+important event	Important events bring joys.	1.0
+situation	Situations are graves.	1.0
+toke	A toke is pull	1.0
+recreation center	Recreation centers are public properties.	1.0
+bentonite	Bentonite is clay	1.0
+star	Stars are massive, glowing balls of hot gases, mostly hydrogen and helium.	0.7920888066291809
+alcoholic cardiomyopathy	Alcoholic cardiomyopathy can ensue from heavy consumption of alcohol over a long period of time.	0.7629726529121399
+ocular prosthesis	Ocular prosthesis replaces a missing right eye.	0.7082608938217163
+old furniture	Old furniture is located in basements.	1.0
+angioplasty	An angioplasty is an operation	1.0
+majority rule	Majority rules are doctrines.	1.0
+snow flea	Snow fleas are tiny insects, usually less than a tenth of an inch long.	0.8109323978424072
+inconvenience	An inconvenience is discomfort	1.0
+cutaneous diphtheria	Cutaneous diphtheria is a localized infection generally occurring in an extremity.	0.7290134429931641
+external factor	External factors influence plant growth.	1.0
+flesh eater	Flesh eaters eat plants.	1.0
+potassium metal	Potassium metal is produced by combining potassium chloride with sodium metal at high temperatures.	0.8092793822288513
+microscopic anatomy	A microscopic anatomy is an anatomy	1.0
+narrow gauge	A narrow gauge is a railway	1.0
+viable neutrophil	Viable neutrophils release mitochondrial DNA to form neutrophil extracellular traps.	0.769853949546814
+roadster	A roadster is a car	1.0
+nuclear incident	Nuclear incidents follow japan earthquakes.	1.0
+internal circulation	Internal circulation is the water that moves within the tank itself.	0.7662127017974854
+pronominal	A pronominal is a phrase	1.0
+new river	New rivers are rivers.	1.0
+urinary infection	Urinary infection is caused by certain bacteria.	1.0
+functional analysis	Functional analysises are part of mathematical analysises.	1.0
+forfeit	A forfeit is an act	1.0
+stag	Stags are deers.	1.0
+warm blood	Warm blood flows into the capillaries, helping to lose excess body heat into the environment.	0.7445856332778931
+insole	Insoles are part of shoes.	1.0
+stalking	Stalking are chasings.	1.0
+captive breed	Captive breeds take places.	1.0
+insurance agent	Insurance agents are workers.	1.0
+yellow macaw	Yellow macaws make noise.	1.0
+serious incident	Serious incidents follow japan earthquakes.	1.0
+health problem	Health problems are caused by mold.	1.0
+nucleoside	Nucleosides are a type of nucleic acid.	0.8569884300231934
+more accurate analysis	More accurate analyses involve equations.	1.0
+Benzyl bromide	Benzyl bromide is a severe eye, skin, and mucous membrane irritant.	0.8022043704986572
+field emission	A field emission is an emission	1.0
+found father	Found fathers use ideas.	1.0
+renal failure patient	Renal failure patients have tendencies.	1.0
+benzyl alcohol	Benzyl alcohol is chemical compounds.	1.0
+allergic rhinitis	Allergic rhinitis requires contact with the environment.	0.700138509273529
+adverbial	An adverbial is an adverb	1.0
+pectoral flipper	Pectoral flippers are a dolphin's forelimbs.	0.7880999445915222
+rock crystal	Rock crystal is the purest form of quartz and a semi-precious stone .	0.7662228941917419
+atlantic salmon	Atlantic salmon live in the northern Atlantic Ocean off the coasts of North America and Europe.	0.7317682504653931
+clanger	A clanger is blunder	1.0
+asymmetry	An asymmetry is a property	1.0
+porbeagle	A porbeagle is a mackerel shark	1.0
+restaurant	Restaurants are located in yellow pages.	1.0
+enterotoxemia	An enterotoxemia is an animal disease	1.0
+python snake	Python snakes live for years.	1.0
+emergency situation	Emergency situations require immediate treatments.	1.0
+cork bark	Cork bark is removed from trees in spring or summer.	0.7346075177192688
+hypersensitivity	Hypersensitivity is sensitivity	1.0
+force field	Force fields contain energy.	1.0
+serum amylase	Serum amylase is cleared by the kidneys and can be detected by measuring urinary amylase activity.	0.7146809697151184
+statospheric ozone	Statospheric ozone is responsible for most of the atmosphere's absorption of UV-B radiation.	0.7754638195037842
+financial ratio	Financial ratios are ratios.	1.0
+coup	Coups are success.	1.0
+mountain ash	Mountain ash is eucalyptuses.	1.0
+verse	Verse isa entity.	1.0
+dense tissue	Dense tissue contains fiber.	1.0
+peculiar velocity	A peculiar velocity is speed	1.0
+laboratory coat	A laboratory coat is a coat	1.0
+mixed adhesive	Mixed adhesive is a gap-filling gel that spreads easily and wets substrates without sagging.	0.7078999876976013
+honeybee	Honeybees are light golden brown, and their bodies are covered with fuzz.	0.7488434910774231

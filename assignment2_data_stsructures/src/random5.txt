@@ -1,0 +1,5 @@
+facial wrinkle	Facial wrinkles increase with the amount of cigarettes and number of years a person has smoked.	0.7361946105957031
+subway	Subways are located in subways.	1.0
+hepatic cell	Hepatic cells recognize the exposed asialo hormone.	0.7218744158744812
+photosynthetic gametophyte	Photosynthetic gametophytes resemble thallose liverworts.	0.7995793223381042
+parasitic disease	Parasitic diseases can affect practically all living organisms , including plants and mammals .	0.764290452003479
