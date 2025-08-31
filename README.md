@@ -15,4 +15,5 @@ Problem-solving with data structures
 SQL query design and database management  
 Version control with Git (from assingment1)
 
-**Please note that some of the base files in here were provide by my educators i cannot take creadit for all the work**
+**Note: Some of the base files in here were provide by my educators i cannot take creadit for all the work**  
+**Note: These assignments are shared for learning and portfolio purposes only.**
