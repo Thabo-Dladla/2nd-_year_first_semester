@@ -10,6 +10,7 @@ It demonstrates understanding of data structures, object-oriented programming, a
 **BTQueue.java** – Queue used for level-order traversal of the binary tree.  
 **GenericsKbArrayApp.java** – Application demonstrating generics with arrays.  
 **GenericsKbBSTApp.java** – Application demonstrating generics with binary search trees.  
+**prac** This folder was practising and testing 
 
 ## Skills Demonstrated
 Binary tree and binary search tree implementation  
