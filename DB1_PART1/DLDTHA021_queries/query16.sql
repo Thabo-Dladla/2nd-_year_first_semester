@@ -1,4 +1,0 @@
-SELECT customers.salesRepEmployeeNumber AS salesRepEmployeeNumber,COUNT(*) AS numCustomers
-FROM customers JOIN employees ON customers.salesRepEmployeeNumber = employees.employeeNumber
-WHERE employees.reportsTo=1143
-GROUP BY customers.salesRepEmployeeNumber HAVING COUNT(*) >= 10;

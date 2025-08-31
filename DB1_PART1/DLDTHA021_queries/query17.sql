@@ -1,2 +1,0 @@
-SELECT office1.country ,office1.officeCode AS oneOffice, office2.officeCode AS otherOffice FROM offices office1
-JOIN offices office2 ON office1.country=office2.country AND office1.officeCode<office2.officeCode;
