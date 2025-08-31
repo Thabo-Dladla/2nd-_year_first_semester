@@ -3,7 +3,7 @@
 This assignment builds on Assignment 1 by introducing **AVL Trees**, a type of self-balancing binary search tree.  
 It demonstrates advanced tree operations, balancing algorithms, and the use of generics in Java applications. 
 
-## main folder is the src folder
+all the files are in the **src** folder
 **AVLTree.java** – Implementation of an AVL tree with insertion and automatic balancing (rotations) this was assingment was extending what we did in the first assgnment.    
 **BinaryTree.java** – Base binary tree structure reused for AVL implementation.  
 **BinaryTreeNode.java** – Node class for binary trees.  
