@@ -16,4 +16,5 @@ SQL query design and database management
 Version control with Git (from assingment1)
 
 **Note: Some of the base files in here were provide by my educators i cannot take creadit for all the work**  
-**Note: These assignments are shared for learning and portfolio purposes only.**
+**Note: These assignments are shared for learning and portfolio purposes only.**  
+ *Note: These assignments are shared for learning and portfolio purposes only.*
